@@ -6,6 +6,14 @@
 - good evening
 - hey there
 
+## intent:help
+- help
+- help me
+- can you help me ?
+- help me please
+- guide me
+- what can you do
+
 ## intent:goodbye
 - bye
 - goodbye

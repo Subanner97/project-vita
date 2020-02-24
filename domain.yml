@@ -6,7 +6,7 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
-
+  - help
 actions:
 - utter_greet
 - utter_cheer_up
@@ -14,8 +14,12 @@ actions:
 - utter_happy
 - utter_goodbye
 - utter_iamabot
+- utter_help
 
 responses:
+  utter_help:
+  - text: "Hey I can do lot's of stuff"
+  
   utter_greet:
   - text: "Hey! How are you?"
 
